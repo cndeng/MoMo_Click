@@ -11,3 +11,5 @@ python MoMoRun
 ```
 ## LICENSE
 MIT
+
+仅供个人学习参考，请勿用于商用价值
